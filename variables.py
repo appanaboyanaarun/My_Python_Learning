@@ -1,6 +1,7 @@
 #In Python ,The Variables are used to store different values 
 #Without variable ,a program cannot store or process information
 #Python does not require you to specify the data type when creating a variable.
+#Python allows Multiple Variables
 ''' Example:
  age =20 #correct
  int age =20 #incorrect
