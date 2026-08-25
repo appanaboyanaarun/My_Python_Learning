@@ -106,13 +106,6 @@ Output:
 1
 80
 '''
-#Ternary (Conditional) Operators
-# Used as a shortCut for if else
 
-age =20
-result ="Adult " if age >=18 else "Minor"
-print(result)
-
-#Output : Adult
 
 
