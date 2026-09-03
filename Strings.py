@@ -183,4 +183,10 @@ print(trans)
 print(Message.translate(trans)) #Translates string according to translation table str(256 chars), removing those in the del string.
 
 '''Output:
+3
+11
+18
+welcome the Python Learning
+{97: 49, 101: 50, 105: 51, 111: 52, 117: 53}
+w2lc4m2 t4 Pyth4n L21rn3ng
 '''
